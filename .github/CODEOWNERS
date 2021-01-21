@@ -1,0 +1,7 @@
+######################################################################
+# These owners will be the default owners for everything in the repo #
+######################################################################
+*       @admiralawkbar @jwiebalk
+.github/workflows/* @daniel @cityofmiami/actions-owners
+*.sln @Isreal
+Dockerfile  @admiralawkbar
